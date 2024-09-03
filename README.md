@@ -10,7 +10,7 @@ El repositorio está organizado de la siguiente manera:
 
 ```
 ├── notebooks/
-│   ├── 01 - vectorizacion de texto y clasificacion Naive Bayes
+│   ├── 01 - vectorizacion de texto y clasificacion Naive Bayes/
 │   │   ├── 01 - Enunciado.ipynb
 │   │   └── 01 - Resolucion.ipynb
 │   ├── desafio2
