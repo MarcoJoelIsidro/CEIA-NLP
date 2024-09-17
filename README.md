@@ -44,3 +44,5 @@ Con estos pasos, habrá activado el entorno Poetry para ejecutar los notebooks d
 A continuación, se detallan los desafíos resueltos hasta el momento:
 
 1. [Vectorización de Texto y Clasificación Naive Bayes](notebooks/01%20-%20vectorizacion%20de%20texto%20y%20clasificacion%20Naive%20Bayes/01%20-%20Resolucion.ipynb)
+
+2. [Utilización de Gensim y análisis](notebooks/02%20-%20Custom%20embeddings%20con%20Gensim/02%20-%20Resolucion.ipynb)

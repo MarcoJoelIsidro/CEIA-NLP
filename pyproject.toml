@@ -9,6 +9,15 @@ package-mode = false
 [tool.poetry.dependencies]
 python = "^3.10"
 scikit-learn = "^1.5.1"
+pandas = "^2.2.2"
+matplotlib = "^3.9.2"
+gensim = "^4.3.3"
+keras = "^3.5.0"
+nltk = "^3.9.1"
+tensorflow = "^2.17.0"
+seaborn = "^0.13.2"
+plotly = "^5.24.1"
+nbformat = "^5.2.9"	
 
 
 [tool.poetry.group.dev.dependencies]
