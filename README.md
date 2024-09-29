@@ -37,6 +37,10 @@ Para activar el entorno Poetry y asegurarse de tener todas las dependencias nece
 
     ```poetry shell```
 
+5. En caso de que no funcione la librería tensorflow se deberá instalar manualmente con el siguiente comando dentro de poetry shell:
+
+    ```pip install tensorflow==2.17.0 --force-reinstall```
+
 Con estos pasos, habrá activado el entorno Poetry para ejecutar los notebooks de la materia de NLP.
 
 ## Desafíos
@@ -46,3 +50,6 @@ A continuación, se detallan los desafíos resueltos hasta el momento:
 1. [Vectorización de Texto y Clasificación Naive Bayes](notebooks/01%20-%20vectorizacion%20de%20texto%20y%20clasificacion%20Naive%20Bayes/01%20-%20Resolucion.ipynb)
 
 2. [Utilización de Gensim y análisis](notebooks/02%20-%20Custom%20embeddings%20con%20Gensim/02%20-%20Resolucion.ipynb)
+
+3. 1. [Modelo de lenguaje con tokenizacion - char](notebooks/03%20-%20Modelo%20de%20lenguaje%20con%20tokenizacion/03%20-%20Resolucion_char.ipynb) 
+   2. [Modelo de lenguaje con tokenizacion - palabras](notebooks/03%20-%20Modelo%20de%20lenguaje%20con%20tokenizacion/03%20-%20Resolucion_word.ipynb) 
