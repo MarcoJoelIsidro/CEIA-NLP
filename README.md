@@ -53,3 +53,5 @@ A continuación, se detallan los desafíos resueltos hasta el momento:
 
 3. 1. [Modelo de lenguaje con tokenizacion - char](notebooks/03%20-%20Modelo%20de%20lenguaje%20con%20tokenizacion/03%20-%20Resolucion_char.ipynb) 
    2. [Modelo de lenguaje con tokenizacion - palabras](notebooks/03%20-%20Modelo%20de%20lenguaje%20con%20tokenizacion/03%20-%20Resolucion_word.ipynb) 
+
+4. [LSTM Bot QA](notebooks/04%20-%20LSTM%20Bot%20QA/04%20-%20Resolucion.ipynb)
